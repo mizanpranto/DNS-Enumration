@@ -2,7 +2,7 @@
 
 Writeup about:
 
--> About DNS 
--> DNS Enmuration
--> Whois
--> NSlookup
+- About DNS
+- DNS Enmuration
+- Whois
+- NSlookup
